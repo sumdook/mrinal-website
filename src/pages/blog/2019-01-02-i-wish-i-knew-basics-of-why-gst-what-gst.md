@@ -9,7 +9,7 @@ description: >
 tags:
   - Tax GST
 ---
-## Global practice
+## Global practice.
 
 Almost 80% of total countries in the world run their taxation with GST system. It is not at all political to judge if GST is good or bad. It is a taxation system which has drawn most of the countries which surely has its advantage. 
 
