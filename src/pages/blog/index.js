@@ -21,7 +21,7 @@ export default class Blog extends Component {
           <Wrapper>
             <div>
               <div className="content">
-                <h1 className="has-text-weight-bold is-size-2">
+                <h1 className="has-text-weight-semibold is-size-3">
                   Latest Stories
                 </h1>
               </div>

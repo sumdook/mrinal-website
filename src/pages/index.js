@@ -3,14 +3,13 @@ import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import styled from 'styled-components';
-import Blog from './blog/index';
 
 const IntroWrapper = styled.div`
   max-width: 1000px;
   margin: 30px auto;
   display: flex;
   justify-content: space-between;
-  @media (max-width: 500px) {
+  @media (max-width: 700px) {
     flex-direction: column;
   }
 
@@ -23,14 +22,12 @@ const IntroWrapper = styled.div`
     min-width: 350px;
     margin: 0 30px;
     background-color: #f9f9f9;
-    @media (max-width: 1000px) {
+    @media (max-width: 900px) {
       height: 300px;
       min-width: 300px;
     }
-    @media (max-width: 500px) {
-      height: 200px;
-      min-width: 200px;
-      margin: 30px;
+    @media (max-width: 700px) {
+      margin: 20px auto;
     }
   }
 `;
@@ -38,6 +35,10 @@ const IntroWrapper = styled.div`
 const BlogWrapper = styled.div`
   max-width: 960px;
   margin: 80px auto;
+  padding: 30px;
+  @media (max-width: 700px) {
+    margin: 30px auto;
+  }
 `;
 
 export default class IndexPage extends React.Component {
@@ -60,17 +61,21 @@ export default class IndexPage extends React.Component {
                   <br />
                   <br />
                   <p className=" is-size-5">
-                    I am an experienced Automotive professional with diversified
-                    experience. This is an experiment to keep myself updated and
-                    connected with the latest sphere of technology. I believe,
-                    my presence will add value to your requirement.
+                    I am an experienced{' '}
+                    <Link to="/about">automotive professional</Link> with
+                    diversified experience. This is an experiment to keep myself
+                    updated and connected with the latest sphere of technology.
+                    I believe, my presence will add value to your requirement.
                     <br />
                     <br />
                     This is a perfect medium to stay connected to you as well,
                     ...anytime ...anywhere.
                     <br />
                     <br />
-                    <Link to="/contact" className="has-text-weight-semibold">
+                    <Link
+                      to="/contact"
+                      className="has-text-weight-semibold is-size-6"
+                    >
                       <span role="img" className="emoji" aria-label="emoji">
                         {'   '}
                         📥
@@ -78,6 +83,7 @@ export default class IndexPage extends React.Component {
                       </span>
                       Contact me here
                     </Link>
+                    <br />
                   </p>
                 </h1>
               </div>
@@ -111,6 +117,10 @@ export default class IndexPage extends React.Component {
               </p>
             </div>
           ))}
+          <br />
+          <Link to="/blog">
+            <h1 className="button is-size-5">Read more posts</h1>
+          </Link>
         </BlogWrapper>
       </Layout>
     );
