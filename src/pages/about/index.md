@@ -13,6 +13,6 @@ Have been associated with the following organisation in my career.
 
 Brief expertise:-
 
-Handling entire backend of sales which includes
+Handling entire backend of finished vehicle sales which includes
 
 Sales Planning | Order Management | Outbound Logistics & Operations | Complete Sales Administrative Skills | Business Process Consultancy in SAP SD | Dealer Management Systems | Inventory Management | Regulatory Compliance | Coordination on Production Scheduling | MIS | Team Leadership
