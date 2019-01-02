@@ -47,7 +47,7 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:type" content="Personal Website" />
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="https://www.mrinalsur.com" />
-          <meta property="og:image" content="/img/og-image.jpg" />
+          <meta property="og:image" content="/img/logoi.jpg" />
         </Helmet>
         <Navbar />
         <div>{children}</div>
