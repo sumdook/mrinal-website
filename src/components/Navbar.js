@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://www.facebook.com/mrinal.sur.7"
+                href="https://twitter.com/mrinalsur"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -77,7 +77,7 @@ const Navbar = class extends React.Component {
               </a>
               <a
                 className="navbar-item"
-                href="https://twitter.com/mrinalsur"
+                href="https://www.facebook.com/mrinal.sur.7"
                 target="_blank"
                 rel="noopener noreferrer"
               >
