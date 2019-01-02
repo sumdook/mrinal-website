@@ -41,7 +41,7 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Contact</h1>
               <p>
-                Is there anything you would like to talk about? Fill the form
+                Is there anything you would like to talk about? Fill the details
                 and we can get in touch soon.{' '}
                 <span role="img" className="emoji" aria-label="emoji">
                   {'   '}
