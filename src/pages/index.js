@@ -90,7 +90,7 @@ export default class IndexPage extends React.Component {
                 </h1>
               </div>
               <div className="image">
-              <img src={Mrinal} />
+              <img alt="Mrinal Sur" src={Mrinal} />
               </div>
             </IntroWrapper>
           </div>
