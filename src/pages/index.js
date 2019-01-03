@@ -1,8 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
-import Layout from '../components/Layout';
 import styled from 'styled-components';
+import Layout from '../components/Layout';
+import Mrinal from '../img/mrinal.jpg'
 
 const IntroWrapper = styled.div`
   max-width: 1000px;
@@ -19,9 +20,10 @@ const IntroWrapper = styled.div`
   }
   .image {
     height: 350px;
-    min-width: 350px;
+    width: 350px;
     margin: 0 30px;
     background-color: #f9f9f9;
+    
     @media (max-width: 900px) {
       height: 300px;
       min-width: 300px;
@@ -87,7 +89,9 @@ export default class IndexPage extends React.Component {
                   </p>
                 </h1>
               </div>
-              <div className="image" />
+              <div className="image">
+              <img src={Mrinal} />
+              </div>
             </IntroWrapper>
           </div>
         </section>
