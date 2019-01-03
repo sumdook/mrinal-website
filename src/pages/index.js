@@ -63,7 +63,7 @@ export default class IndexPage extends React.Component {
                   <br />
                   <br />
                   <p className=" is-size-5">
-                    I am an experienced{' '}
+                    I am an{' '}
                     <Link to="/about">automotive professional</Link> with
                     diversified experience. This is an experiment to keep myself
                     updated and connected with the latest sphere of technology.
