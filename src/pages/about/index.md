@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: A little about me.
+title: 'Hi, This is Mrinal Sur - A little about me.'
 ---
 ![a](/img/trucks.png "gdfg")
 
