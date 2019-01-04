@@ -2,7 +2,7 @@
 templateKey: about-page
 title: 'Hi, This is Mrinal Sur - A little about me.'
 ---
-![About Picture](/img/trucks.png "About-picture")
+![About Picture](/img/trucks1.jpg "About-picture")
 
 ## Have been associated with the following organisation in my career.
 
