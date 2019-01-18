@@ -39,7 +39,7 @@ While the act permits exemption to file return of GST up to turnover of 20L, on 
 
 * GST has benefited many specific business e.g. trucking industry. 
 
-Plight of trucker and truck driver is well known fact – which can be discussed separately in future. The trucks carrying various goods used lined up in each state border for clearing papers to go in and out from one state to another (Sales tax and RTO). Every state would have had in and out to keep track that a transit truck has not unloaded the goods into their state. Now all that are being taken care by e-waybill (another forthcoming topic).   
+Plight of trucker and truck driver is well known fact – which has been discussed in next blog ([GST-made-transporting-more-efficient](www.mrinalsur.in/blog/2019-01-18-gst-made-transporting-more-efficient)) future. The trucks carrying various goods used lined up in each state border for clearing papers to go in and out from one state to another (Sales tax and RTO). Every state would have had in and out to keep track that a transit truck has not unloaded the goods into their state. Now all that are being taken care by e-waybill (another forthcoming topic).   
 
 ![One tax](/img/tax-to-gst-1.jpg "GST Basics")
 
