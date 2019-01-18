@@ -7,7 +7,9 @@ description: >
   distributed by different professions. Let us know a bit basic that is needed
   for a common man (or for a layman as far as taxation is concerned).
 tags:
-  - Tax GST
+  - GST
+  - Goods and Service Tax
+  - Tax
 ---
 ## Global practice.
 
