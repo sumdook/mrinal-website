@@ -28,7 +28,7 @@ const TemplateWrapper = ({ children }) => (
           />
           <meta
             name="google-site-verification"
-            content={data.site.siteMetadata.google_site_verification}
+            content="bwgu2B9wxoxPm98BKypAxfiB76F-GSrIs7GsPmmRYcY"
           />
           <link rel="apple-touch-icon" sizes="180x180" href="/img/logoi.jpg" />
           <link

@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Mrinal Sur',
-    description: 'The personal website of Mrinal Sur',
-    google_site_verification: 'bwgu2B9wxoxPm98BKypAxfiB76F-GSrIs7GsPmmRYcY'
+    description: 'The personal website of Mrinal Sur'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
