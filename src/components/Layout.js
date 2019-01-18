@@ -26,7 +26,10 @@ const TemplateWrapper = ({ children }) => (
             name="description"
             content={data.site.siteMetadata.description}
           />
-
+          <meta
+            name="google-site-verification"
+            content={data.site.siteMetadata.google_site_verification}
+          />
           <link rel="apple-touch-icon" sizes="180x180" href="/img/logoi.jpg" />
           <link
             rel="icon"
