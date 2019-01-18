@@ -56,5 +56,5 @@ Almost every activity in GST has to be performed online. India’s present statu
 
 Undoubtedly, this modern taxation system which is adopted in most of the countries of the world required due time to get settled.
 
-Yes, GST V2
+Yes, GST Version 2.0
  is awaited
