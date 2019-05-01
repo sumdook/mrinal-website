@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'I Wish I Knew basics of why GST, what GST.'
+title: 'I Wish I Knew basics of why GST, what is GST - Explained'
 date: 2019-01-02T16:26:31.023Z
 description: >
   Indian had adopted GST on 1st July 2017. Perceptions of different types being
