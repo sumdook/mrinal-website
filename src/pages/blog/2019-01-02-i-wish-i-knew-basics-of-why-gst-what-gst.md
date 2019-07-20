@@ -59,6 +59,8 @@ Undoubtedly, this modern taxation system which is adopted in most of the countri
 Yes, GST Version 2.0
  is awaited
 
-<script type="text/javascript" src="https://www.counters-free.net/count/2ao3"></script><br>
 
- <a href='https://www.counters-free.net/'>free html Counter</a> <script type='text/javascript' src='https://whomania.com/ctr?id=a10b78454e409044d63c5afff169a8579cdbf8b0'></script>
+
+<script type="text/javascript" src="https://www.counters-free.net/count/2ao5"></script><br>
+
+ <a href='https://www.counters-free.net/'>free html Counter</a> <script type='text/javascript' src='https://whomania.com/ctr?id=4deeed5670e2620a72c7271fb4e94e7075c5a6e4'></script>
