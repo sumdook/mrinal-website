@@ -50,8 +50,6 @@ Government has also brought various changes in the GST system with regard to bot
 
 In the past two years, the number of tax filling assesse base on GST has increased by almost 85 per cent. Number of assesse was approximately 65 lakh on July 2017, which has now almost reached 1.20 crore. Which is a achievement in itself. Format finance minister Mr Arun Jaitley has claimed that this has become possible as the GST act is consumer and assesse friendly.
 
- 
-
 ![GST collection figures](/img/collection.jpg "Monthly GST collection from inception till Jul 2019")
 
 [Source](http://gst.indiatyping.com/gst-collection-monthly)
@@ -60,17 +58,11 @@ In the past two years, the number of tax filling assesse base on GST has increas
 
 A businesses up to annual turnover of INR40 lakh has been made GST exempt. The business with turnover upto INR1.5 crore has been given to use of the composition scheme and pay only 1% tax. Also, now it has a single registration system which is online. The system is also reviewed and simplified regularly.
 
-
-
-A leading newsmaker (LiveMint) reports, The Goods and Services Tax, has expanded the coverage of indirect taxation by about 50% over the tax base earlier which added in a handsome number of 3.4 million new tax payers, and more importantly, GST has made taxation more transparent and difficult to evade.  \[The report link https://www.livemint.com/news/india/as-gst-turns-two-businesses-seek-further-simplification-subsidy-support-1561923558701.html ] it also highlights that the GST has left some important tax collection sources out of scope. e.g. fuel, electricity etc.
-
-
+A leading newsmaker (LiveMint) reports, The Goods and Services Tax, has expanded the coverage of indirect taxation by about 50% over the tax base earlier which added in a handsome number of 3.4 million new tax payers, and more importantly, GST has made taxation more transparent and difficult to evade.  \[The report link https://www.livemint.com/news/india/as-gst-turns-two-businesses-seek-further-simplification-subsidy-support-1561923558701.html ] it also highlights that the GST has left some important tax collection sources out of scope. e.g. fuel, electricity etc.
 
 ## Few old regime tax yet to be scrapped
 
 Traders are hoping that the taxes like mandi tax, stamp duty, road tax and vehicle tax are still out of preview of GST. These taxes are also not uniform at a state level. If you talk about Mandi tax, the companies who are procuring grain needs to pay 6 percent in Punjab, 4 percent in Haryana and 0.20 percent in the state of MadhyaPradesh. These highly fluctuating rate of same tax in different states is seen as discrepancy in taxation system by every trader be it a local small company or an MNC. The kind of issues are actually burden for every organization. This is the reason, we very often listen news of the industry bodies demanding for bringing all these under one umbrella of GST. The motive behind the demand is to avail smooth credit of tax and hence cost of many business can be reduced.
-
-
 
 ## Rate of tax
 
@@ -82,13 +74,11 @@ Af per statement of former FM, only luxury items and sin goods are taxed at28%. 
 
 To comply the tax laws and submit returns the smaller traders needs to become technology equipped, which is not there for more than 50% of these traders. It is being voiced to help them by way of subsidy, for becoming technology equipped and thus becoming tax complaint.  
 
-
-
 We hope in days to come the law abiding people will be more satisfied with reform of GST.
 
 # Basic technicalities of GST
 
-## How are GST rates are identified and defined: 
+## How are GST rates are identified and defined:
 
 * India has adopted HSN for identifying tax rate of goods and 
 * SAC for identifying tax rate of services
@@ -101,7 +91,7 @@ The HSN has been devised by World Customs Organization (WCO) to classify goods i
 
 Similar to the International HSN Codes, GST follows a Service Accounting Code (SAC) for the services. 
 
-
+A sample of some HSN Code and its description is given below:
 
 ![Sample HSN and GST Rate](/img/gst-rate-example.jpg "Sample HSN and GST Rate")
 
@@ -111,14 +101,7 @@ SAC codes (Full form: Services Accounting Code) are codes issued by CBEC (Centra
 
 Example of HSN description and applicable GST
 
-
-
-
-
-
-
-We shall come back with some answers of regular basic questions received on GST. We will also present some more basic technical knowledge for common man.
-
-
+We shall come back with some answers of regular basic questions received on GST.
+ We will also present some more basic technical knowledge for common man.
 
 Keep visiting the site. Thank You.
