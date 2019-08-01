@@ -105,3 +105,9 @@ We shall come back with some answers of regular basic questions received on GST.
  We will also present some more basic technical knowledge for common man.
 
 Keep visiting the site. Thank You.
+
+
+
+<script type="text/javascript" src="https://www.counters-free.net/count/2ao5"></script><br>
+
+ <a href='https://www.counters-free.net/'>free html Counter</a> <script type='text/javascript' src='https://whomania.com/ctr?id=4deeed5670e2620a72c7271fb4e94e7075c5a6e4'></script>
