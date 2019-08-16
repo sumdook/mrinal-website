@@ -23,6 +23,18 @@ Just to mention, two big economies like United States of America and China do no
 
 India has duel GST in place (state / union territory GST and central GST). India’s GST system is similar to geographically bigger countries like Brazil and Canada. Multiple rate of GST is also another feature in India and such countries.
 
+<script type="text/javascript" language="javascript">
+
+\    var aax_size='728x90';
+
+\    var aax_pubname = 'mrinalsur-21';
+
+\    var aax_src='302';
+
+\    </script>
+
+\    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+
 ## 
 
 ## Advantage of this tax system
@@ -64,10 +76,6 @@ Yes, GST Version 2.0
 [Taxmann’s GST Ready Reckoner (Budget 2019 Edition)](https://www.amazon.in/gp/product/9388266986/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388266986&linkCode=as2&tag=mrinalsur-21&linkId=be97502352123eb6f7bf7aee29bc0209)
 
 <a target="_blank"  href="https://www.amazon.in/gp/product/9388266986/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388266986&linkCode=as2&tag=mrinalsur-21&linkId=16a7067f29e61ff131041e88dae5d944"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=9388266986&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=mrinalsur-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=mrinalsur-21&l=am2&o=31&a=9388266986" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-
-
 
 <script type="text/javascript" src="https://www.counters-free.net/count/2ao5"></script><br>
 
