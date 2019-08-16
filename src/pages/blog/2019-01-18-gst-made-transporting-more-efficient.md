@@ -40,6 +40,18 @@ Well, initially it was seen as challenge by the industry but after completer ada
 
 The e-way bill was introduced almost along with the Goods and Services Tax in the year 2017 as an anti-evasion measure in bulk consignment transports. However many states took time for full implementation. 
 
+<script type="text/javascript" language="javascript">
+
+\    var aax_size='160x600';
+
+\    var aax_pubname = 'mrinalsur-21';
+
+\    var aax_src='302';
+
+\    </script>
+
+\    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+
 ## Conception became reality
 
 Before GST was rolled out, government had promised greater up-time for truck movement, less idle hours for them and faster turnaround time for the transporter as a whole. This is proving to be true. A 2000 km distance would have been a 5 to 6 days affair and dealing with corruption in the pre GST era, this has come down to almost 3 days situation in present time. It has also made life of truck drivers little easier. 
