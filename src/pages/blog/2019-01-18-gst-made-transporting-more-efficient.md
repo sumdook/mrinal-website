@@ -42,7 +42,7 @@ The e-way bill was introduced almost along with the Goods and Services Tax in th
 
 <script type="text/javascript" language="javascript">
 
-\    var aax_size='160x600';
+\    var aax_size='300x250';
 
 \    var aax_pubname = 'mrinalsur-21';
 
@@ -51,6 +51,8 @@ The e-way bill was introduced almost along with the Goods and Services Tax in th
 \    </script>
 
 \    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+
+
 
 ## Conception became reality
 
