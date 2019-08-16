@@ -32,7 +32,19 @@ Implementation of GST can also claim the credit of one of major reason for India
 
 In the past two years, government has done a lot to balance the state and central revenue.
 
-As stated in my previous blog, ([I wish I knew basics of why gst, what is gst/](https://www.mrinalsur.in/blog/2019-01-02-i-wish-i-knew-basics-of-why-gst-what-gst/)), the GST merged many other taxes which was maintained before July 2017. It has streamlined seventeen different laws and created one single tax system. The pre-GST rate (or VAT / CST) of taxation was a standard rate for VAT was 14.5%, excise at 12.5% and added with the CST and with the cascading effect (of tax on tax), the tax payable by the consumer was almost 31% odd. The entertainment tax was in force and being collected by the States from 35% to 110%. The tax payers had to file multiple returns, had to work with multiple commercial tax officers and additionally face the inefficiency. 
+As stated in my previous blog, ([I wish I knew basics of why gst, what is gst/](https://www.mrinalsur.in/blog/2019-01-02-i-wish-i-knew-basics-of-why-gst-what-gst/)), the GST merged many other taxes which was maintained before July 2017. It has streamlined seventeen different laws and created one single tax system. The pre-GST rate (or VAT / CST) of taxation was a standard rate for VAT was 14.5%, excise at 12.5% and added with the CST and with the cascading effect (of tax on tax), the tax payable by the consumer was almost 31% odd. The entertainment tax was in force and being collected by the States from 35% to 110%. The tax payers had to file multiple returns, had to work with multiple commercial tax officers and additionally face the inefficiency.
+
+<script type="text/javascript" language="javascript">
+
+\    var aax_size='160x600';
+
+\    var aax_pubname = 'mrinalsur-21';
+
+\    var aax_src='302';
+
+\    </script>
+
+\    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script> 
 
 ## Continuous improvement in GST Act
 
@@ -106,15 +118,11 @@ We shall come back with some answers of regular basic questions received on GST.
 
 Keep visiting the site. Thank You.
 
-
-
 ## One of the best available reference book.
 
 [Taxmann’s GST Ready Reckoner (Budget 2019 Edition)](https://www.amazon.in/gp/product/9388266986/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388266986&linkCode=as2&tag=mrinalsur-21&linkId=be97502352123eb6f7bf7aee29bc0209)
 
 <a target="_blank"  href="https://www.amazon.in/gp/product/9388266986/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388266986&linkCode=as2&tag=mrinalsur-21&linkId=16a7067f29e61ff131041e88dae5d944"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=9388266986&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=mrinalsur-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=mrinalsur-21&l=am2&o=31&a=9388266986" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
 
 <script type="text/javascript" src="https://www.counters-free.net/count/2ao5"></script><br>
 
