@@ -40,6 +40,8 @@ Well, initially it was seen as challenge by the industry but after completer ada
 
 The e-way bill was introduced almost along with the Goods and Services Tax in the year 2017 as an anti-evasion measure in bulk consignment transports. However many states took time for full implementation. 
 
+a
+
 <script type="text/javascript" language="javascript">
 
 \    var aax_size='728x90';
