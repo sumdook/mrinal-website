@@ -70,6 +70,14 @@ module.exports = {
         pixelId: '641312842977038'
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-130445775-2',
+        cookieDomain: 'mrinalsur.in'
+      }
+    },
+
     'gatsby-plugin-styled-components',
     'gatsby-plugin-purgecss', // must be after other CSS plugins
     'gatsby-plugin-netlify' // make sure to keep it last in the array
