@@ -77,6 +77,12 @@ module.exports = {
         cookieDomain: 'mrinalsur.in'
       }
     },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-9808897898964496`
+      }
+    },
 
     'gatsby-plugin-styled-components',
     'gatsby-plugin-purgecss', // must be after other CSS plugins
