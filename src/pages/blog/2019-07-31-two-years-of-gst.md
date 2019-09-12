@@ -118,6 +118,10 @@ We shall come back with some answers of regular basic questions received on GST.
 
 Keep visiting the site. Thank You.
 
+
+
+for Some more business specific information please visit : https://digitalregion.in/
+
 ## One of the best available reference book.
 
 [Taxmann’s GST Ready Reckoner (Budget 2019 Edition)](https://www.amazon.in/gp/product/9388266986/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9388266986&linkCode=as2&tag=mrinalsur-21&linkId=be97502352123eb6f7bf7aee29bc0209)
