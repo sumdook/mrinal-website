@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 import Layout from '../components/Layout';
-import Mrinal from '../img/mrinal.jpg'
+import Mrinal from '../img/mrinal02.jpg';
 
 const IntroWrapper = styled.div`
   max-width: 1000px;
@@ -23,7 +23,7 @@ const IntroWrapper = styled.div`
     width: 350px;
     margin: 0 30px;
     background-color: #f9f9f9;
-    
+
     @media (max-width: 900px) {
       height: 300px;
       min-width: 300px;
@@ -63,11 +63,11 @@ export default class IndexPage extends React.Component {
                   <br />
                   <br />
                   <p className=" is-size-5">
-                    I am an{' '}
-                    <Link to="/about">automotive professional</Link> with
-                    diversified experience. This is an experiment to keep myself
-                    updated and connected with the latest sphere of technology.
-                    I believe, my presence will add value to your requirement.
+                    I am an <Link to="/about">automotive professional</Link>{' '}
+                    with diversified experience. This is an experiment to keep
+                    myself updated and connected with the latest sphere of
+                    technology. I believe, my presence will add value to your
+                    requirement.
                     <br />
                     <br />
                     This is a perfect medium to stay connected to you as well,
@@ -90,7 +90,7 @@ export default class IndexPage extends React.Component {
                 </h1>
               </div>
               <div className="image">
-              <img alt="Mrinal Sur" src={Mrinal} />
+                <img alt="Mrinal Sur" src={Mrinal} />
               </div>
             </IntroWrapper>
           </div>
