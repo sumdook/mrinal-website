@@ -19,26 +19,6 @@ Just to mention, two big economies like United States of America and China do no
 
 > Most of the developed nations in the world has adopted to GST system of tax. France was first country to implement GST way back in 1954. 
 
-`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>`
-
-`<ins class="adsbygoogle"`
-
-`style="display:block; text-align:center;"`
-
-`data-ad-layout="in-article"`
-
-`data-ad-format="fluid"`
-
-`data-ad-client="ca-pub-9808897898964496"`
-
-`data-ad-slot="2022953560"></ins>`
-
-`<script>`
-
-`(adsbygoogle = window.adsbygoogle || []).push({});`
-
-`</script>`
-
 ## Indian Context of GST
 
 India has duel GST in place (state / union territory GST and central GST). India’s GST system is similar to geographically bigger countries like Brazil and Canada. Multiple rate of GST is also another feature in India and such countries.
