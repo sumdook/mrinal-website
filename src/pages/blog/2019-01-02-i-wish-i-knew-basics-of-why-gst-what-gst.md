@@ -41,10 +41,7 @@ India has duel GST in place (state / union territory GST and central GST). India
 
 * Elimination of multiple tax is the first and major benefit of GST over any other tax regime. 
   Remember the slogan, one Nation one Tax? With implementation of GST India has abolished many taxes namely entry tax, entertainment tax, luxury tax, octroi, LBT, service tax, excise duty, (except in only few notified commodities like petrol, diesel) etc.
-* 
-
-Set-off against earlier paid tax is another major advantage in the GST system tax.  More importantly unlike previous tax systems, taxes paid against other goods / services (now that all falls under GST) can be taken for set off in to while filing returns.
-
+* Set-off against earlier paid tax is another major advantage in the GST system tax.  More importantly unlike previous tax systems, taxes paid against other goods / services (now that all falls under GST) can be taken for set off in to while filing returns.
 * This taxation system has broadened tax base. 
 
 While the act permits exemption to file return of GST up to turnover of 20L, on the other aside, the system has forced many traders to register and pay due tax. Many were managing not to pay tax probably by manipulating books or by not showing transactions to tax authorities. As mentioned above, the GST allows the buyer to take setoff of earlier paid tax and hence reducing overall cost impact of their goods and services. The set off can be availed only if the bills (taxable) of their purchase is uploaded in GST portal. Hence every buyer insists their seller (supplier) to file proper return (GSTR-where tax details of the invoice/bill is required to be uploaded). 
