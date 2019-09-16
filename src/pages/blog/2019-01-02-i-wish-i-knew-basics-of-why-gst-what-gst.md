@@ -19,23 +19,23 @@ Just to mention, two big economies like United States of America and China do no
 
 > Most of the developed nations in the world has adopted to GST system of tax. France was first country to implement GST way back in 1954. 
 
-`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>`
+`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>`
 
-`<ins class="adsbygoogle"`
+`<ins class="adsbygoogle"`
 
-`     style="display:block; text-align:center;"`
+`style="display:block; text-align:center;"`
 
-`     data-ad-layout="in-article"`
+`data-ad-layout="in-article"`
 
-`     data-ad-format="fluid"`
+`data-ad-format="fluid"`
 
-`     data-ad-client="ca-pub-9808897898964496"`
+`data-ad-client="ca-pub-9808897898964496"`
 
-`     data-ad-slot="2022953560"></ins>`
+`data-ad-slot="2022953560"></ins>`
 
-`<script>`
+`<script>`
 
-`     (adsbygoogle = window.adsbygoogle || []).push({});`
+`(adsbygoogle = window.adsbygoogle || []).push({});`
 
 `</script>`
 
