@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'I Wish I Knew basics of why GST, what is GST - Explained'
+title: 'What is GST - Explained [Basics of why GST, What is GST]'
 date: 2019-01-02T16:26:31.023Z
 description: >
   Indian had adopted GST on 1st July 2017. Perceptions of different types being
@@ -18,6 +18,8 @@ Almost 80% of total countries in the world run their taxation with GST system. I
 Just to mention, two big economies like United States of America and China do not GST implemented. While China has a very complicated taxation system and just completed VAT reform in their country in the year 2016 and US prefers to keep autonomy to states, 
 
 > Most of the developed nations in the world has adopted to GST system of tax. France was first country to implement GST way back in 1954. 
+
+`google.com, pub-9808897898964496, DIRECT, f08c47fec0942fa0`
 
 ## Indian Context of GST
 
