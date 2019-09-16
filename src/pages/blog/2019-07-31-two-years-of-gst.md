@@ -32,6 +32,26 @@ Implementation of GST can also claim the credit of one of major reason for India
 
 In the past two years, government has done a lot to balance the state and central revenue.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle"
+
+\    style="display:block; text-align:center;"
+
+\    data-ad-layout="in-article"
+
+\    data-ad-format="fluid"
+
+\    data-ad-client="ca-pub-9808897898964496"
+
+\    data-ad-slot="2022953560"></ins>
+
+<script>
+
+\    (adsbygoogle = window.adsbygoogle || \[]).push({});
+
+</script>
+
 As stated in my previous blog, ([I wish I knew basics of why gst, what is gst/](https://www.mrinalsur.in/blog/2019-01-02-i-wish-i-knew-basics-of-why-gst-what-gst/)), the GST merged many other taxes which was maintained before July 2017. It has streamlined seventeen different laws and created one single tax system. The pre-GST rate (or VAT / CST) of taxation was a standard rate for VAT was 14.5%, excise at 12.5% and added with the CST and with the cascading effect (of tax on tax), the tax payable by the consumer was almost 31% odd. The entertainment tax was in force and being collected by the States from 35% to 110%. The tax payers had to file multiple returns, had to work with multiple commercial tax officers and additionally face the inefficiency.
 
 <script type="text/javascript" language="javascript">
@@ -117,8 +137,6 @@ We shall come back with some answers of regular basic questions received on GST.
  We will also present some more basic technical knowledge for common man.
 
 Keep visiting the site. Thank You.
-
-
 
 for Some more business specific information please visit : <https://digitalregion.in/>
 
