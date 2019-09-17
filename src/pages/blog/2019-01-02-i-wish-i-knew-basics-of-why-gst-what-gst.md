@@ -50,7 +50,7 @@ While the act permits exemption to file return of GST up to turnover of 20L, on 
 
 Plight of trucker and truck driver is well known fact – which has been discussed my next blog article ([GST-made-transporting-more-efficient](https://www.mrinalsur.in/blog/2019-01-18-gst-made-transporting-more-efficient/)). The trucks carrying various goods used lined up in each state border for clearing papers to go in and out from one state to another (Sales tax and RTO). Every state would have had in and out to keep track that a transit truck has not unloaded the goods into their state. Now all that are being taken care by e-waybill (another forthcoming topic).   
 
-![One tax](/img/tax-to-gst-1.jpg "GST Basics")
+![VAT/LST/CST merged into GST ](/img/gst-mearged-lst-n-cst.jpg "VAT/LST/CST merged into GST")
 
 ## India still needs to solve few concerns for using the world’s most used taxation system in optimized manner
 
