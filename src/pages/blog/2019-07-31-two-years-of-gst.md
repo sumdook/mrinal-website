@@ -129,3 +129,21 @@ for Some more business specific information please visit : <https://digitalregio
 <script type="text/javascript" src="https://www.counters-free.net/count/2ao5"></script><br>
 
  <a href='https://www.counters-free.net/'>free html Counter</a> <script type='text/javascript' src='https://whomania.com/ctr?id=4deeed5670e2620a72c7271fb4e94e7075c5a6e4'></script>
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script>
+
+\    (adsbygoogle = window.adsbygoogle || \[]).push({
+
+\    google_ad_client: "ca-pub-9808897898964496",
+
+\    enable_page_level_ads: true
+
+\    });
+
+</script>
