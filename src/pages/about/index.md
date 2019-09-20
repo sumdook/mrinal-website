@@ -2,17 +2,16 @@
 templateKey: about-page
 title: 'Hi, This is Mrinal Sur - A little about me.'
 ---
-
-![About Picture](/img/trucks1.jpg 'About-picture')
+![About Picture](/img/trucks1.jpg "About-picture")
 
 ## Have been associated with the following organisation in my career.
 
-- _TATA MOTORS_
-- _MAN TRUCKS INDIA_
-- _DAIMLER INDIA COMMERCIAL VEHICLES (BHARAT BENZ)_
-- _ASIA MOTOR WORKS (AMW_)
+* _TATA MOTORS_
+* _MAN TRUCKS INDIA_
+* _DAIMLER INDIA COMMERCIAL VEHICLES (BHARAT BENZ)_
+* _ASIA MOTOR WORKS (AMW_)
 
-**Brief expertise**
+**Responsibilities  **
 
 Handling entire backend of finished vehicle sales which includes
 
