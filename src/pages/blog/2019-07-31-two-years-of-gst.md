@@ -18,6 +18,7 @@ tags:
   - SAC
   - SAC code
   - HSN Code
+  - Where to download HSN Code
   - GST collection figures
 ---
 ## Simplified and friendly slab of tax
@@ -107,11 +108,19 @@ A sample of some HSN Code and its description is given below:
 
 ![Sample HSN and GST Rate](/img/gst-rate-example.jpg "Sample HSN and GST Rate")
 
+List of HSN Code is available in many government websites e.g. http://www.wbcomtax.nic.in/GST/GST_FAQ/GST_HSN_CODES.pdf gives the list in PDF. 
+
+
+
 ## SAC
 
 SAC codes (Full form: Services Accounting Code) are codes issued by CBEC (Central Board of Excise & Customs) to uniformly classify each services under GST
 
 Example of HSN description and applicable GST
+
+
+
+
 
 We shall come back with some answers of regular basic questions received on GST.
  We will also present some more basic technical knowledge for common man.
@@ -129,8 +138,6 @@ for Some more business specific information please visit : <https://digitalregio
 <script type="text/javascript" src="https://www.counters-free.net/count/2ao5"></script><br>
 
  <a href='https://www.counters-free.net/'>free html Counter</a> <script type='text/javascript' src='https://whomania.com/ctr?id=4deeed5670e2620a72c7271fb4e94e7075c5a6e4'></script>
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
