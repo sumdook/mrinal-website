@@ -15,7 +15,7 @@ tags:
 
 Almost 80% of total countries in the world run their taxation with GST system. It is not at all political to judge if GST is good or bad. It is a taxation system which has drawn most of the countries which surely has its advantage. 
 
-Just to mention, two big economies like United States of America and China do not GST implemented. While China has a very complicated taxation system and just completed VAT reform in their country in the year 2016 and US prefers to keep autonomy to states, 
+Just to mention, two big economies like United States of America and China do not have GST implemented. While China has a very complicated taxation system and just completed VAT reform in their country in the year 2016 and US prefers to keep autonomy to states.
 
 > Most of the developed nations in the world has adopted to GST system of tax. France was first country to implement GST way back in 1954. 
 
