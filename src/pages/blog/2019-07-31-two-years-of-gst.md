@@ -110,17 +110,11 @@ A sample of some HSN Code and its description is given below:
 
 List of HSN Code is available in many government websites e.g. http://www.wbcomtax.nic.in/GST/GST_FAQ/GST_HSN_CODES.pdf gives the list in PDF. 
 
-
-
 ## SAC
 
 SAC codes (Full form: Services Accounting Code) are codes issued by CBEC (Central Board of Excise & Customs) to uniformly classify each services under GST
 
 Example of HSN description and applicable GST
-
-
-
-
 
 We shall come back with some answers of regular basic questions received on GST.
  We will also present some more basic technical knowledge for common man.
@@ -154,3 +148,5 @@ for Some more business specific information please visit : <https://digitalregio
 \    });
 
 </script>
+
+<script data-ad-client="ca-pub-9808897898964496" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
