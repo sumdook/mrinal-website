@@ -82,22 +82,14 @@ Yes, GST Version 2.0
 
 
 
-```
-<!-- Rakuten Automate starts here -->
-```
 
-```
-<script type="text/javascript">
-```
 
-```
-    var _rakuten_automate = { accountKey: "d92d4fe0879b784fdd46a4c0568ebf0a811845f53c493cd928932c1643b42f30", u1: "", snippetURL: "https://automate-frontend.linksynergy.com/minified_logic.js", automateURL: "https://automate.linksynergy.com", widgetKey: "Bjarm0xCJgw59e6mbFCz1wJ1RpRsGMkS", aelJS: null, useDefaultAEL: false, loaded: false, events: [] };var ael=window.addEventListener;window.addEventListener=function(a,b,c,d){"click"!==a&&_rakuten_automate.useDefaultAEL?ael(a,b,c):_rakuten_automate.events.push({type:a,handler:b,capture:c,rakuten:d})};_rakuten_automate.links={};var httpRequest=new XMLHttpRequest;httpRequest.open("GET",_rakuten_automate.snippetURL,!0);httpRequest.timeout=5E3;httpRequest.ontimeout=function(){if(!_rakuten_automate.loaded){for(i=0;i<_rakuten_automate.events.length;i++){var a=_rakuten_automate.events[i];ael(a.type,a.handler,a.capture)}_rakuten_automate.useDefaultAEL=!0}};httpRequest.onreadystatechange=function(){httpRequest.readyState===XMLHttpRequest.DONE&&200===httpRequest.status&&(eval(httpRequest.responseText),_rakuten_automate.run(ael))};httpRequest.send(null);
-```
+`<!-- Rakuten Automate starts here -->`
 
-```
-</script>
-```
+`<script type="text/javascript">`
 
-```
-<!-- Rakuten Automate ends here -->
-```
+`    var _rakuten_automate = { accountKey: "d92d4fe0879b784fdd46a4c0568ebf0a811845f53c493cd928932c1643b42f30", u1: "", snippetURL: "https://automate-frontend.linksynergy.com/minified_logic.js", automateURL: "https://automate.linksynergy.com", widgetKey: "Bjarm0xCJgw59e6mbFCz1wJ1RpRsGMkS", aelJS: null, useDefaultAEL: false, loaded: false, events: [] };var ael=window.addEventListener;window.addEventListener=function(a,b,c,d){"click"!==a&&_rakuten_automate.useDefaultAEL?ael(a,b,c):_rakuten_automate.events.push({type:a,handler:b,capture:c,rakuten:d})};_rakuten_automate.links={};var httpRequest=new XMLHttpRequest;httpRequest.open("GET",_rakuten_automate.snippetURL,!0);httpRequest.timeout=5E3;httpRequest.ontimeout=function(){if(!_rakuten_automate.loaded){for(i=0;i<_rakuten_automate.events.length;i++){var a=_rakuten_automate.events[i];ael(a.type,a.handler,a.capture)}_rakuten_automate.useDefaultAEL=!0}};httpRequest.onreadystatechange=function(){httpRequest.readyState===XMLHttpRequest.DONE&&200===httpRequest.status&&(eval(httpRequest.responseText),_rakuten_automate.run(ael))};httpRequest.send(null);`
+
+`</script>`
+
+`<!-- Rakuten Automate ends here -->`
