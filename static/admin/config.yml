@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: sumdook/mrinal-website
   branch: master
 
 media_folder: static/img
